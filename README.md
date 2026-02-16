@@ -6,7 +6,7 @@ PyTorch implementation of CNN for CIFAR-10 image classification with experiments
 ## Files
 - `stage2_cnn.py` - Main training script
 - `stage2_notes.md` - Experiment results and observations
-
+- `training_curve.png` - Training visualization
 
 ## Setup
 ```bash

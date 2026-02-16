@@ -73,3 +73,13 @@ Training with augmentation required more epochs but improved generalization. The
 
 
 
+Final Model (2 Conv + Augmentation, 10 Epochs, 10k Subset)
+
+Results:
+
+Train Accuracy: ~51.03%
+
+Test Accuracy: ~53.46%
+
+Observation:
+Training on a reduced 10,000-sample subset resulted in lower overall accuracy compared to full dataset experiments (~64%). This highlights the impact of dataset size on model generalization. Despite reduced data, the model showed steady improvement across epochs without overfitting.
